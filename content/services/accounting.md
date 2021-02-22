@@ -6,7 +6,7 @@ weight: "1"
 
 ---
 Share your ideas with us and get a track to sing in 48 hours, we are online every day.
-
+![Music Production](/uploads/singing.jpg)
 Music production is our flagship product, it has never been so economical to have a song produced, mixed and mastered as with our combos. You can choose the one that best suits your pocket, here our offers.
 
 ### Full track song production basic £50
