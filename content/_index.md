@@ -5,6 +5,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 
 ---
-# Serif - A Hugo Business Theme.
+# Believe in Music, Make the change
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+We are in the music business to offer you the best work at a more than adequate price. Let’s enjoy your next hit.
