@@ -1,4 +1,4 @@
-name = "Hugo Serif"
+name = "Ghostie Producer"
 license = "MIT"
 licenselink = "https://github.com/zerostaticthemes/hugo-serif-theme/blob/master/LICENSE"
 description = "Serif is an advanced multi page theme for Hugo. It contains multiple content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated."
@@ -8,5 +8,5 @@ features = ["services","team","about","contact"]
 min_version = "0.74.3"
 
 [author]
-  name = "Robert Austin"
-  homepage = "https://www.zerostatic.io"
+  name = "ghostie producer"
+  homepage = "https://www.instagram.com/ghostieproducer"
