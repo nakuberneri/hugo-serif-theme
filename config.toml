@@ -33,8 +33,8 @@ meta_twitter_creator = "@ghostieprod"
 meta_twitter_site = "@ghostieprod"
 [params.logo]
 alt = "Ghostie Producer"
-desktop = "images/logo/logo.svg"
+desktop = "https://i.ibb.co/NsKSDXf/ghostie.jpg"
 desktop_height = "36px"
-mobile = "images/logo/logo-mobile.svg"
+mobile = "https://i.ibb.co/NsKSDXf/ghostie.jpg"
 [params.team]
 summary_large_truncate = 120
